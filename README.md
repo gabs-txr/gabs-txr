@@ -1,8 +1,8 @@
 # Bem vindo ao meu perfil! 💁‍♀️
  <div>
    <a href="https://github.com/gabs-txr">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabs-txr&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-txr&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabs-txr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabs-txr&layout=compact&langs_count=6&theme=radical"/>
 </div>
     
 <div style="display: inline_block"><br>
